@@ -1,2 +1,6 @@
 "This is FileA" 
+<<<<<<< HEAD
 User Suresh Gmail added content
+=======
+Added change from User sxkd303
+>>>>>>> 12b372f08ba219488d94729aa38a7408f6b9f6b8
